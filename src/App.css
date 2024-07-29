@@ -1,0 +1,27 @@
+.image{
+    height: 100px;
+    width: 100px;
+}
+.navbar{
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+}
+.mainPage{
+    height: calc(100vh - 56px);
+    width: 100%;
+    /* background-color: black; */
+    background-image: url(https://img.freepik.com/free-photo/arrangement-black-friday-shopping-carts-with-copy-space_23-2148667047.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+} 
+
+.form1{
+    background-color: rgba(17, 0, 0, 0.6);
+    color: white;
+}
+
